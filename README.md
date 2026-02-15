@@ -1,9 +1,5 @@
 # Customer-Churn-Prediction-ML
 Machine Learning project to predict customer churn using Logistic Regression.
-# Customer Churn Prediction using Logistic Regression
-
-## 📌 Project Overview
-This project predicts whether a customer will churn or not using Logistic Regression.
 
 ## 🛠 Tools & Technologies
 - Python
